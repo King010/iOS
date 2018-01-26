@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface TestView : UIView
-{
+{    
     CGPoint firstPoint;
     CGPoint secnondPoint;
     CGPoint thirdPoint;
